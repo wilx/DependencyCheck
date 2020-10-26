@@ -152,7 +152,7 @@ Copyright (c) 2012 - Jeremy Long
         <commons-lang3.version>3.11</commons-lang3.version>
         <commons-text.version>1.9</commons-text.version>
         <commons-jcs-core.version>2.2.1</commons-jcs-core.version>
-        <com.sun.mail.mailapi.version>1.6.5</com.sun.mail.mailapi.version>
+        <com.sun.mail.mailapi.version>2.0.0</com.sun.mail.mailapi.version>
         <aho-corasick-double-array-trie.version>1.2.2</aho-corasick-double-array-trie.version>
         <junit.version>4.13.1</junit.version>
         <hamcrest-core.version>2.2</hamcrest-core.version>
